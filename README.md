@@ -6,10 +6,10 @@ This is a simple project management system built with **Laravel** (backend) and 
 ---
 
 ## 🛠️ Tech Stack
-- **Laravel**: v12  
-- **React**: v19  
+- **Laravel**: v12.3.0  
+- **React**: v19.1.0
 - **PHP**: 8.3.17  
-- **Node**: 22.6.0
+- **Node**: 22.13.1
 
 ---
 
