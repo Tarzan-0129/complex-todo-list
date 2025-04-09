@@ -1,5 +1,5 @@
 
-# 📁 Simple Project Management with Laravel, Pusher, and PrimeReact
+# 📁 Simple Project Management with Laravel, and PrimeReact
 
 This is a simple project management system built with **Laravel** (backend) and **React** (frontend), using **PrimeReact** for UI components.
 
